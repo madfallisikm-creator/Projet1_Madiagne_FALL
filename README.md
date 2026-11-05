@@ -9,7 +9,6 @@ nettoyage des données, calcul de 5 indicateurs, figures et rapport de sécurit�
 
 ```bash
 pip install -r requirements.txt
-python analyse.py
 ```
 
 Le script lit `data/logs_reseau.csv`, écrit `resultats.json` et enregistre les graphiques dans `figures/`.
