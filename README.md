@@ -7,10 +7,6 @@ nettoyage des données, calcul de 5 indicateurs, figures et rapport de sécurit�
 
 ## Lancer le projet
 
-```bash
-pip install -r requirements.txt
-```
-
 Le script lit `data/logs_reseau.csv`, écrit `resultats.json` et enregistre les graphiques dans `figures/`.
 
 ## Contenu
